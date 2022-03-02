@@ -1,0 +1,61 @@
+/* This is a comment in CSS! */
+
+/*
+  UNCOMMENT ONE EXAMPLE BELOW AT A TIME TO SEE HOW IT APPEARS IN
+  THE BROWSER!
+*/
+
+body {
+  color: black;
+}
+
+/* figcaption {
+  color: red;
+} */
+
+/* section {
+  color: red;
+} */
+
+/* p,
+li,
+td {
+  color: red;
+} */
+
+/* #introduction {
+  color: red;
+} */
+
+/* .alt-row {
+  color: red;
+} */
+
+/* nav li {
+  list-style-type: square;
+} */
+
+/* main abbr {
+  color: red;
+} */
+
+/* figcaption > a {
+  color: red;
+} */
+
+/* abbr[title] {
+  color: red;
+} */
+
+/* [lang='de'] {
+  color: red;
+} */
+
+/* abbr::before {
+  content: "!!!";
+  color: red;
+} */
+
+/* p::first-letter {
+  color: red;
+} */
