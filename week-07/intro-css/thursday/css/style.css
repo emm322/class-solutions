@@ -1,0 +1,78 @@
+/* This is a comment in CSS! */
+
+/*
+  UNCOMMENT ONE EXAMPLE BELOW AT A TIME TO SEE HOW IT APPEARS IN
+  THE BROWSER!
+*/
+
+body {
+  color: black;
+}
+
+/* figcaption {
+  color: red;
+} */
+
+/* section {
+  color: red;
+} */
+
+/* h1,
+h2,
+h3,
+h4 {
+  color: red;
+} */
+
+/* h2 {
+  color: red;
+} */
+
+/* h3 {
+  color: red;
+} */
+
+/* h4 {
+  color: red;
+} */
+
+/* #introduction {
+  color: red;
+} */
+
+/* .alt-row {
+  color: red;
+} */
+
+/* nav li {
+  list-style-type: square;
+} */
+
+/* #people-and-society ol li {
+  list-style-type: decimal-leading-zero;
+} */
+
+/* figcaption > a {
+  color: red;
+} */
+
+/* time[datetime] {
+  color: red;
+} */
+
+/* [lang='ar'] {
+  color: red;
+} */
+
+/* a:hover {
+  color: red;
+} */
+
+/* p::first-letter {
+  color: red;
+} */
+
+/* time::before {
+  content: "!!!";
+  color: red;
+} */
